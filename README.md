@@ -67,8 +67,8 @@ J(("$J$"))
 
 # Installation
 
-The plugin is not yet available in the official Obsidian plugin store.
-You can install it by cloning this repository into your `.obsidian/plugins` folder and then running `npm install` followed by `npm run build` inside the cloned repository.
+The plugin is available in the official [Obsidian plugin store](https://obsidian.md/plugins?search=mehrmaid).
+Alternatively you can install it by cloning this repository into your `.obsidian/plugins` folder and then running `npm install` followed by `npm run build` inside the cloned repository.
 The plugin should then be available in the Obsidian plugin settings.
 
 # How it works
